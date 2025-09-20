@@ -1,4 +1,4 @@
-# No CD? No Problem! How to Install or Reinstall Quicken Premier, Classic Deluxe & More on a New Windows Computer
+# First Project for Users: No CD? No Problem! How to Install or Reinstall Quicken Premier, Classic Deluxe & More on a New Windows Computer
 
 Getting a new computer is exciting, but it can also bring some challenges—especially when it comes to reinstalling essential software like Quicken. If you've upgraded your PC and are wondering how to install or reinstall Quicken Premier, Classic Deluxe, or any other Quicken version without a CD, you're in the right place. Whether you're migrating Quicken to a new computer or reinstalling it without physical media, this guide walks you through every step.
 
@@ -89,4 +89,5 @@ You don't need a CD to install Quicken on a new computer—just your Quicken ID 
 So the next time you’re thinking, “How do I install Quicken on new computer without CD?”—remember, the tools you need are already online. Just log in, download, and you're ready to go.
 
 Whether you're reinstalling Quicken on a new computer or setting it up for the first time, you're only a few clicks away from managing your finances with ease.
+
 
